@@ -2244,14 +2244,14 @@ input[type=image]{
 
 select{
   background-position:100%;
-  background-image:url(//cdn.shopify.com/s/files/1/0302/2897/1619/t/12/assets/ico-select.svg);
+  background-image:url(//cdn.shopify.com/s/files/1/0624/4735/4095/t/2/assets/ico-select.svg);
   background-repeat:no-repeat;
   background-position:right 10px center;
   background-size:11px
 }
 
 .is-light select{
-    background-image:url(//cdn.shopify.com/s/files/1/0302/2897/1619/t/12/assets/ico-select-white.svg)
+    background-image:url(//cdn.shopify.com/s/files/1/0624/4735/4095/t/2/assets/ico-select-white.svg)
 }
 
 .faux-select .icon{
@@ -3546,7 +3546,7 @@ form+.footer__social{
     }
 
 .site-footer select{
-    background-image:url(//cdn.shopify.com/s/files/1/0302/2897/1619/t/12/assets/ico-select-footer.svg);
+    background-image:url(//cdn.shopify.com/s/files/1/0624/4735/4095/t/2/assets/ico-select-footer.svg);
   }
 
 [data-center-text=true] .payment-icons{
